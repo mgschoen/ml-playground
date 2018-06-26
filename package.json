@@ -1,0 +1,9 @@
+{
+  "name": "ml-playground",
+  "version": "1.0.0",
+  "description": "Playing around with various machine learning techniques in JavaScript",
+  "main": "main.js",
+  "author": "Martin Schoen <schoenm@cip.ifi.lmu.de>",
+  "license": "MIT",
+  "private": false
+}
