@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "description": "Playing around with various machine learning techniques in JavaScript",
   "main": "main.js",
+  "scripts": {
+    "lr": "node ./scripts/linear-regression",
+    "nb": "node ./scripts/naive-bayes"
+  },
   "author": "Martin Schoen <schoenm@cip.ifi.lmu.de>",
   "license": "MIT",
   "private": false,
   "dependencies": {
     "cli-graph": "^3.2.2",
+    "cliff": "^0.1.10",
     "colors": "^1.3.0"
   }
 }
